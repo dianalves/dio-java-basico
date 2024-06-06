@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FormatorCepExemplo",
+            "request": "launch",
+            "mainClass": "edu.diana.quintasemana.FormatorCepExemplo",
+            "projectName": "dio-java-basico_45b2ac6a"
+        },
+        {
+            "type": "java",
+            "name": "ExemploExcecao",
+            "request": "launch",
+            "mainClass": "edu.diana.quintasemana.ExemploExcecao",
+            "projectName": "dio-java-basico_45b2ac6a"
+        },
+        {
+            "type": "java",
+            "name": "ExemploDoWhile",
+            "request": "launch",
+            "mainClass": "edu.diana.quartasemana.ExemploDoWhile",
+            "projectName": "dio-java-basico_45b2ac6a"
+        },
+        {
+            "type": "java",
+            "name": "ExemploWhile",
+            "request": "launch",
+            "mainClass": "edu.diana.quartasemana.ExemploWhile",
+            "projectName": "dio-java-basico_45b2ac6a"
+        },
+        {
+            "type": "java",
+            "name": "ExemploForArray",
+            "request": "launch",
+            "mainClass": "edu.diana.quartasemana.ExemploForArray",
+            "projectName": "dio-java-basico_45b2ac6a"
+        },
+        {
+            "type": "java",
             "name": "ContaTerminal",
             "request": "launch",
             "mainClass": "edu.diana.ContaBanco.ContaTerminal",
