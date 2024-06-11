@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Contador",
+            "request": "launch",
+            "mainClass": "edu.diana.DesafioControleFluxo.Contador",
+            "projectName": "dio-java-basico_45b2ac6a"
+        },
+        {
+            "type": "java",
+            "name": "ProcessoSeletivo",
+            "request": "launch",
+            "mainClass": "edu.diana.candidatura.ProcessoSeletivo",
+            "projectName": "dio-java-basico_45b2ac6a"
+        },
+        {
+            "type": "java",
             "name": "FormatorCepExemplo",
             "request": "launch",
             "mainClass": "edu.diana.quintasemana.FormatorCepExemplo",
