@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "edu.diana.iphone.Main",
+            "projectName": "dio-java-basico_45b2ac6a"
+        },
+        {
+            "type": "java",
+            "name": "ComputadorPedrinho",
+            "request": "launch",
+            "mainClass": "edu.diana.msnmessenger.ComputadorPedrinho",
+            "projectName": "dio-java-basico_45b2ac6a"
+        },
+        {
+            "type": "java",
+            "name": "SistemaIbge",
+            "request": "launch",
+            "mainClass": "SistemaIbge",
+            "projectName": "dio-java-basico_45b2ac6a"
+        },
+        {
+            "type": "java",
+            "name": "SistemaCadastro",
+            "request": "launch",
+            "mainClass": "edu.diana.pessoa.SistemaCadastro",
+            "projectName": "dio-java-basico_45b2ac6a"
+        },
+        {
+            "type": "java",
+            "name": "Escola",
+            "request": "launch",
+            "mainClass": "edu.diana.escola.Escola",
+            "projectName": "dio-java-basico_45b2ac6a"
+        },
+        {
+            "type": "java",
             "name": "Contador",
             "request": "launch",
             "mainClass": "edu.diana.DesafioControleFluxo.Contador",
