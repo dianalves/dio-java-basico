@@ -8,6 +8,27 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "edu.diana.dominio.Main",
+            "projectName": "dio-java-basico_45b2ac6a"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "edu.diana.bootcamp.Main",
+            "projectName": "dio-java-basico_45b2ac6a"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "edu.diana.banco.Main",
+            "projectName": "dio-java-basico_45b2ac6a"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "edu.diana.iphone.Main",
             "projectName": "dio-java-basico_45b2ac6a"
         },
